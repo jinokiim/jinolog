@@ -16,3 +16,10 @@
 .markdown h3 {
   @apply text-2xl mt-8 mb-4 leading-snug;
 }
+
+.hljs {
+  background: #000 !important;
+  padding: 1em;
+  overflow-x: auto;
+  border-radius: 5px;
+}
